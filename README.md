@@ -1,5 +1,4 @@
-<!-- AI-Generated Image -->
-  <img src="https://cdn.pixabay.com/photo/2023/09/04/15/33/ai-generated-8775232_960_720.png" height="200" alt="AI Woman Programmer"/>
+
 
 
 <h1 align="center">Hi 👋, I'm Nabeela</h1>
