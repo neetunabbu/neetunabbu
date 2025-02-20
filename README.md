@@ -47,13 +47,4 @@
 
 </div>
 
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neetunabbu&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats"/>
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="#">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neetunabbu&theme=dracula" height="150" alt="GitHub Streak"/>
-  </a>
 
-</div>
