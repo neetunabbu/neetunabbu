@@ -28,3 +28,23 @@
 
 
 
+## ⚡ Stats:
+
+<div align="center">
+  
+  <!-- Most Used Languages -->
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunabbu&layout=compact&theme=dracula&langs_count=8&hide=Jupyter%20Notebook,C++,CMake,Python" height="150" alt="Most Used Languages"/>
+  </a>
+  
+  <!-- GitHub Stats -->
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neetunabbu&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats"/>
+  </a>
+  
+  <!-- Streak Stats -->
+  <a href="#">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neetunabbu&theme=dracula" height="150" alt="GitHub Streak"/>
+  </a>
+
+</div>
