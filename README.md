@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/c84542c3-b5df-4062-be10-0a2a22c0d4e4)
+![Image](https://github.com/user-attachments/assets/63f17f13-b594-4590-b214-dd68037f97ab)
+
 
 <h1 align="center">Hi 👋, I'm Nabeela</h1>
 <h3 align="center">A passionate Full Stack PHP developer from India</h3>
