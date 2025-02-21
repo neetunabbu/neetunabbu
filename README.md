@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/63f17f13-b594-4590-b214-dd68037f97ab)
+![Image](https://github.com/user-attachments/assets/63f17f13-b594-4590-b214-dd68037f97ab) width=200px
 
 
 <h1 align="center">Hi 👋, I'm Nabeela</h1>
